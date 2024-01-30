@@ -1,0 +1,25 @@
+{
+    "name": "Luke",
+    "surname": "Skywalker",
+    "lightsaber": 1,
+    "jedi": true,
+    "friends": [  "Yoda",
+                "Obi-wan", 
+                "C3P0",
+                "R2D2"
+            ],
+     "family": {
+        "name": "Leia",
+        "surname": "Skywalker",
+        "relation": "Sister"
+        
+     },
+    
+     "family2" :  
+     {
+        "name": "Darth",
+        "surname": "Vader",
+        "relation": "Father"
+     },        
+     "died": null
+}
